@@ -1,4 +1,4 @@
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> G'day mate! Nice to see you here.</h1>
 
 <p>Welcome to my page! </br> I'm Chris, Fullstack web developer from <img src="https://image.flaticon.com/icons/svg/206/206618.svg" width="13"/> <b>Melbourne, Australia</b>. </p>
 <h3>Things I code with</h3>
