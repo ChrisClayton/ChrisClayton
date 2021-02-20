@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Chris, Fullstack web developer from <img src="https://image.flaticon.com/icons/svg/206/206618.svg" width="13"/> <b>Melbourne, Australia</b>. </p>
 
 [![Twitter: ChrisClayton](https://img.shields.io/twitter/follow/ChrisClayton?style=social)](https://twitter.com/ChrisClayton)
-[![Linkedin: cj-clayton](https://img.shields.io/badge/-cjclayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cj-clayton/)](https://www.linkedin.com/in/cj-clayton/)
+[![Linkedin: cj-clayton](https://img.shields.io/badge/-cj clayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cj-clayton/)](https://www.linkedin.com/in/cj-clayton/)
 [![GitHub ChrisClayton](https://img.shields.io/github/followers/ChrisClayton?label=follow&style=social)](https://github.com/ChrisClayton)
 
 
